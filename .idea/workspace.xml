@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d48068b2-a444-412c-9c63-63a9e3250a92" name="Changes" comment="Обновил исходники">
+    <list default="true" id="d48068b2-a444-412c-9c63-63a9e3250a92" name="Changes" comment="Доделал">
       <change beforePath="$PROJECT_DIR$/.idea/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719170061516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Доделал">
+      <option name="closed" value="true" />
+      <created>1719345842631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719345842631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создание" />
     <MESSAGE value="Обновил исходники" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил исходники" />
+    <MESSAGE value="Доделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделал" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
